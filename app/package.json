@@ -1,0 +1,8 @@
+{
+  "name": "krabamore-miniapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Мини-приложение магазина «Краба Море» для MAX",
+  "engines": { "node": ">=18" },
+  "scripts": { "webhook": "node scripts/setup-webhook.mjs" }
+}
